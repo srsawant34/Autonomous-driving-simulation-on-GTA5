@@ -12,4 +12,4 @@ If you want the pretrained model you can find model in this [link](https://drive
 
 The data is collected on location shown and vehicle used is scooter.
 
-![alt text](https://raw.githubusercontent.com/srsawant34/Autonomous-driving-simulation-on-GTA5/blob/master/mapgta.jpg)
+![alt text](https://github.com/srsawant34/Autonomous-driving-simulation-on-GTA5/blob/master/mapgta.jpg)
