@@ -11,3 +11,5 @@ The model is trained on total of 100k images on 2.6GHz Intel Core i7-6700HQ 4 co
 If you want the pretrained model you can find model in this [link](https://drive.google.com/drive/folders/1OsrTovUDXBRdQ5O_bpJ0z-1UhKa2mvAB?usp=sharing).
 
 The data is collected on location shown and vehicle used is scooter.
+
+![alt text](https://raw.githubusercontent.com/srsawant34/Autonomous-driving-simulation-on-GTA5/edit/master/mapgta.jpeg)
